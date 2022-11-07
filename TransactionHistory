@@ -113,7 +113,12 @@ https://goerli.etherscan.io/tx/0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73
   https://goerli.etherscan.io/tx/0x2c828a2ca3986a021ffde7723a18571f8186c654ce8adce5d95f62d56bedcc14
   
 ###Hali
--voted on mitch's contract
-txt hash: 0xa426727d40777d900f90119f84db961fc696005bb97eea13c76c94aa2caa9c4c
+- voted on mitch's contract (success)
+    tx hash: 0xa426727d40777d900f90119f84db961fc696005bb97eea13c76c94aa2caa9c4c
 https://goerli.etherscan.io/tx/0xa426727d40777d900f90119f84db961fc696005bb97eea13c76c94aa2caa9c4c
-
+  -voted on mitch's contract (Fail with error 'Already voted.')
+    tx hash: 0x7497b2619bad9257c97a5c7fa1641043389b729e5e724171e35a6d5196472cbf
+  https://goerli.etherscan.io/tx/0x7497b2619bad9257c97a5c7fa1641043389b729e5e724171e35a6d5196472cbf
+  -voted on Redrum's contract (success)
+  tx:hash: 0x754fb33cc4be276c4ce3f9a8de8f48f97f78e85f4bb5dece72b5fd9c37fe3bf9
+  https://goerli.etherscan.io/tx/0x754fb33cc4be276c4ce3f9a8de8f48f97f78e85f4bb5dece72b5fd9c37fe3bf9

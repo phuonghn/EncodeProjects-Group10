@@ -4,7 +4,8 @@ import * as dotenv from 'dotenv';
 dotenv.config()
 
 async function main() {
-const contractAddress = "0xF2299632a664E2d445ee11E42Af3B9AA7eFA2c84";
+  //input contract address and proposal index to vote
+const contractAddress = process.argv[2];
 const proposalIndex = process.argv[3];
 const provider = ethers.getDefaultProvider("goerli", {alchemy: process.env.ALCHEMY_API_KEY});
 const wallet = new ethers.Wallet(process.env.MNEMONIC ?? "");
