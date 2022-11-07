@@ -116,9 +116,15 @@ https://goerli.etherscan.io/tx/0x58220ac4a6518907c3e1ab1fd8b9beb19220c581dca4f73
 - voted on mitch's contract (success)
     tx hash: 0xa426727d40777d900f90119f84db961fc696005bb97eea13c76c94aa2caa9c4c
 https://goerli.etherscan.io/tx/0xa426727d40777d900f90119f84db961fc696005bb97eea13c76c94aa2caa9c4c
-  -voted on mitch's contract (Fail with error 'Already voted.')
+  - voted on mitch's contract (Fail with error 'Already voted.')
     tx hash: 0x7497b2619bad9257c97a5c7fa1641043389b729e5e724171e35a6d5196472cbf
   https://goerli.etherscan.io/tx/0x7497b2619bad9257c97a5c7fa1641043389b729e5e724171e35a6d5196472cbf
-  -voted on Redrum's contract (success)
+  - voted on Redrum's contract (success)
   tx:hash: 0x754fb33cc4be276c4ce3f9a8de8f48f97f78e85f4bb5dece72b5fd9c37fe3bf9
   https://goerli.etherscan.io/tx/0x754fb33cc4be276c4ce3f9a8de8f48f97f78e85f4bb5dece72b5fd9c37fe3bf9
+  - created new contract (success)
+    https://goerli.etherscan.io/tx/0x8ccb70e3988dc1ac0865646c59bd86d2278d4d2cbea20f105f79c67289577ab1
+  - give rights to vote to redrum (success)
+  https://goerli.etherscan.io/tx/0x1bec04a48db5b38d44b1be6b250355a7d2127bb8525ea2bf4e796cfc88ab5a1f
+  - delegate vote to redrum (success)
+  https://goerli.etherscan.io/tx/0xf7a2c4dafe2ee1dfe0243cdf56a81bbb1b6452678eba7a825b14ee60a04f9478
